@@ -1,0 +1,2 @@
+com/aybjax/firstapp/BuildConfig.java
+ com.aybjax.firstapp.BuildConfig
